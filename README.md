@@ -46,3 +46,5 @@ pour appeler cette fonction c'est très simple il faut appeler tout simplement l
 > const  result  =  synchronous.NomDelaVariableSync(10)
 
 
+
+
